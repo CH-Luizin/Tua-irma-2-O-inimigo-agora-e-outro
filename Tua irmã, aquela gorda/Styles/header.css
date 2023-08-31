@@ -1,8 +1,13 @@
 .cabeçalho-do-burgão {
-
     width: 24px;
     height: 24px;
     background-image: url("../Imagens/Menu.svg");
     display: inline-block;
-    
+}
+
+.Cabeçalho-da-tua-irmã {
+   background-color: var(--branco);
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
 }
