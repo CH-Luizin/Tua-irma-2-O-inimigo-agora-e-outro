@@ -2,12 +2,22 @@
     width: 24px;
     height: 24px;
     background-image: url("../Imagens/Menu.svg");
+    background-repeat: no-repeat;
     display: inline-block;
 }
 
 .Cabeçalho-da-tua-irmã {
    background-color: var(--branco);
    display: flex;
-   justify-content: space-around;
-   align-items: center;
+   justify-content: space-between;
+}
+
+.conteiner {
+    display: flex;
+    align-items: center;
+}
+
+.conteiner_imagem {
+    padding: 1em;
+
 }
