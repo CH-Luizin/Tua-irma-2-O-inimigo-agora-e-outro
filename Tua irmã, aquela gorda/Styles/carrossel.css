@@ -9,7 +9,7 @@
 }
 
 .swiper-slide img {
-    width: 100%;
+    width: 20%;
 }
 
 .swiper-button-prev,
@@ -73,7 +73,7 @@
     text-decoration: none;
 }
 
-@media screen and (min-width: 1024) {
+@media screen and (min-width: 1024px) {
     .carrosel_titulo {
         font-size: 26px;
     }

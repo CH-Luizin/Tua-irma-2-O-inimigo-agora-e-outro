@@ -11,7 +11,7 @@ hr {
     display: none;
 }
 
-@media screen and (min-width: 1024) {
+@media screen and (min-width: 1024px) {
     .rodapé {
         display: flex;
         justify-content: space-around;
